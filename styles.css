@@ -251,11 +251,12 @@ body {
   top: 2px;
 }
 
-/**/
+/*navbar*/
 body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
+  
 }
 
 h1 {
@@ -336,5 +337,4 @@ table {
   margin: 15px 0 10px 0;
   font-size: 1rem;
   font-weight: 300;
-
 }
