@@ -129,7 +129,7 @@ body {
   margin: 0px;
   font-family: "segoe ui";
 }
-
+/*navbar*/
 .nav {
   height: 50px;
   width: 100%;
@@ -332,4 +332,9 @@ table {
 
 /*footer*/
 .footer {
+  color: #000000;
+  margin: 15px 0 10px 0;
+  font-size: 1rem;
+  font-weight: 300;
+
 }
